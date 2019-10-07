@@ -15,6 +15,7 @@ int main()
 
 int check_number(long number)
 {
+
     int numb_of_digits = 0;
     long tmp = number;
     char * string_number;
